@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner]([https://github.com/Vazquez-Diego/Compix/blob/main/1.png?raw=true](https://raw.githubusercontent.com/Vazquez-Diego/TecnoRiego/refs/heads/main/tecnoriego.png))
+[![TecnoRiego Banner](https://raw.githubusercontent.com/Vazquez-Diego/TecnoRiego/refs/heads/main/tecnoriego.png)](https://github.com/Vazquez-Diego/TecnoRiego)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hola somos Compix</h2>
 
