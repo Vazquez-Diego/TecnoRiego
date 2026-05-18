@@ -1,8 +1,8 @@
 [![TecnoRiego Banner](https://raw.githubusercontent.com/Vazquez-Diego/TecnoRiego/refs/heads/main/tecnoriego.png)](https://github.com/Vazquez-Diego/TecnoRiego)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hola somos Compix</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hola somos Tecnoriego</h2>
 
-## 👋 &nbsp;Compix: Aplicación de Prevención de Violencia
+## 👋 &nbsp;TECNORIEGO: OPTIMIZACION DE RIEGO EN ZONAS ARIDAS
 
 ### 🛡️ &nbsp;Acerca del Proyecto
 
