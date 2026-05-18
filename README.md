@@ -53,10 +53,10 @@
 
 <p>🎓 &nbsp;Somos estudiantes de la <strong>Universidad Rosario Castellanos</strong>, pertenecientes a la 
 <strong>Licenciatura en Ciencia de Datos para Negocios</strong>, conformados por 
-<strong>Sonia Gallego</strong>, 
-<strong>Michelle Sanchez</strong>, 
-<strong>Lucia Hernandez</strong> 
-y <strong>Diego Vazquez</strong>.
+<strong>Diego Vazquez</strong>, 
+<strong>Carlos Gutierrez</strong>, 
+<strong>Randhall Carreño</strong> 
+y <strong>Lennin Cardenas</strong>.
 </p>
 
   <p>🌱 &nbsp;Como equipo, estamos avanzando en áreas como 
