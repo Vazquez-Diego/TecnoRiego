@@ -51,10 +51,13 @@
 <div>
   <p>💡 &nbsp;Nos apasiona desarrollar soluciones tecnológicas innovadoras enfocadas en resolver problemáticas reales del sector agrícola y ambiental.</p>
 
-  <p>🎓 &nbsp;Somos estudiantes de la <strong>Universidad Rosario Castellanos</strong>, conformados por dos compañeros de 
-    <strong>Contabilidad</strong> —<strong>Sonia Gallego</strong> y <strong>Michelle Sanchez</strong>— 
-    y dos de la <strong>Licenciatura en Ciencia de Datos para Negocios</strong> —<strong>Lucia Hernandez</strong> y <strong>Diego Vazquez</strong>.
-  </p>
+<p>🎓 &nbsp;Somos estudiantes de la <strong>Universidad Rosario Castellanos</strong>, pertenecientes a la 
+<strong>Licenciatura en Ciencia de Datos para Negocios</strong>, conformados por 
+<strong>Sonia Gallego</strong>, 
+<strong>Michelle Sanchez</strong>, 
+<strong>Lucia Hernandez</strong> 
+y <strong>Diego Vazquez</strong>.
+</p>
 
   <p>🌱 &nbsp;Como equipo, estamos avanzando en áreas como 
     <strong>Inteligencia Artificial</strong>, 
